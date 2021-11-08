@@ -24,7 +24,12 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+MELI test project building with [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Configuration
+
+- rename .env.example to .env and configure vars
+
 
 ## Installation
 
